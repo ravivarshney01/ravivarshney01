@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-🌱 I’m currently learning NextJS and exploring Jamstack
+Hi, I'm a software engineer, currently working with Testbook.com as SDE - 2. I have experience working on Backend technologies Go (Golang), Python, Mongo, and PostgreSQL, and have also worked on some frontend technologies in the past including Angular, and React.
+
 <!--
 **ravivarshney01/ravivarshney01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
